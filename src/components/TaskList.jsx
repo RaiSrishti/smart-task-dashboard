@@ -22,3 +22,4 @@ function TaskList({ tasks, deleteTask, updateStatus, setEditTask }) {
 
 export default TaskList;// Added dynamic task rendering
 // Added dynamic task rendering
+// Added dynamic task rendering
