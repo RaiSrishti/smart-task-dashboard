@@ -64,3 +64,4 @@ export default App;// Task status logic added
 // Filtering, sorting and localStorage integrated
 // Task status logic added
 // Filtering, sorting and localStorage integrated
+// Task status logic added
