@@ -54,24 +54,34 @@ This project focuses entirely on frontend development without backend integratio
 ---
 
 ## Project Structure
+```
 smart-task-dashboard/
 │
+├── public/
+│
 ├── src/
-│ ├── components/
-│ ├── hooks/
-│ ├── utils/
-│ ├── App.jsx
-│ └── main.jsx
+│   ├── components/
+│   │   ├── TaskForm.jsx
+│   │   ├── TaskList.jsx
+│   │   ├── TaskItem.jsx
+│   │   ├── FilterBar.jsx
+│   │   └── DashboardSummary.jsx
+│   │
+│   ├── hooks/
+│   │   └── useLocalStorage.js
+│   │
+│   ├── utils/
+│   │   └── helpers.js
+│   │
+│   ├── App.jsx
+│   └── main.jsx
 │
 ├── README.md
-└── package.json
+├── package.json
+└── vite.config.js
+```
 
 ## Author
 Srishti Rai M
 Final Year – Computer Science and Engineering
-React Internship Project## Day 1 - Requirement analysis completed
-## Day 7 - Final testing completed
-## Day 1 - Requirement analysis completed
-## Day 7 - Final testing completed
-## Day 1 - Requirement analysis completed
-## Day 7 - Final testing completed
+React Internship Project
